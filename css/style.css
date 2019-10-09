@@ -20,5 +20,5 @@ h2 {
 #tasks .completed {
   background: #ccc;
   text-decoration: underline;
-  font-family: Verdana;
+  font-size: 12px;
 }
